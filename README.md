@@ -291,15 +291,17 @@
 Для реализации системы предлагается следующий стек технологий:
 
 * Бэкенд:
-    - Язык TypeScript 
-    - Node.js/Express.js
+    - Язык Golang 
     - БД PostgreSQL, Redis
-    - Sequelize ORM
-    - 
+
 * Фронтенд:
-    - Язык TypeScript
+    - Язык JavaScript
     - React.js/Redux
     - Tailwind
+    
+* Мобайл:
+    - Язык JavaScript
+    - React Native
 
 Для интернет-эквайринга рассматриваются Тинькофф и CloudPayments,
 в ходе проекта надо сравнить технические возможности платформ и комиссии
